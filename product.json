@@ -1,0 +1,9 @@
+[
+    {
+        "title": "网易严选自制商城",
+        "desc": "使用PHP,JavaScript,Mysql，与后台交互，包含登录、注册、退出功能",
+        "imgName": "shop",
+        "demoAddress": "resume",
+        "codeAddress": "laravel"
+    }
+]
