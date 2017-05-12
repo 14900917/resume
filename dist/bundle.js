@@ -14585,7 +14585,7 @@ function(e, t, n) {
                     className: "iconfont icon-biaoti"
                 }), "基本信息"), u.
             default.createElement("dd", null, u.
-            default.createElement("span", null, "个人信息:"), "罗圣宇 / 男 / 24岁"), u.
+            default.createElement("span", null, "个人信息:"), "罗圣宇 / 男 / 27岁"), u.
             default.createElement("dd", null, u.
             default.createElement("span", null, "毕业院校:"), "黑龙江建筑职业技术学院"), u.
             default.createElement("dd", null, u.
